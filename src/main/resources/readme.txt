@@ -26,3 +26,12 @@ Solución preguntas
 
 - ¿Cuántos métodos tiene la clase Familia?
     R/ 3: El constructor familia, tenerHijo, e imprimirFamilia
+
+- ¿Cuántos parámetros tiene el método tenerHijo() de la clase Familia?
+    R/ 1: String nombre
+
+- ¿Cuántos atributos inicializa el constructor de la clase Familia?
+    R/ 2: papa y mama
+
+- ¿Qué tipo de retorno tiene el método tenerHijo()?
+    R/ void, no retorna nada4
